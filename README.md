@@ -22,7 +22,7 @@ openData - 병원의 설립일
 
 bedCount - 병원이 갖추고 있는 병상의 수
 
-instkind - 병원, 의원, 요양병원, 한의원, 종합병원 등 병원의 종류
+instkind - 병원, 의원, 요양병원, 한의원, 종합병원 등 병원의 종류(병원:hospital, 의원:clinic, 요양병원:nursing hospital, 한의원:traditional hospital, 종합병원:general hospital)
 
 
 ### 재무제표
