@@ -14,7 +14,9 @@ sample_submission.csv - 두 개의 열로 구성 하나는 inst_id, 다른 하�
 
 ### 기본정보
 
-301 obs. of  58 variables
+train : 301 obs. of  58 variables
+
+test, sub : 127 obs. of  58 variables
 
 inst_id - 각 파일에서의 병원 고유 번호
 
