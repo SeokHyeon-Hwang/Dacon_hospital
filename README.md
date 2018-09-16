@@ -32,6 +32,14 @@ instkind - 병원, 의원, 요양병원, 한의원, 종합병원 등 병원의 �
 (병원:hospital, 의원:clinic, 요양병원:nursing_hospital, 한의학 병원:traditional_ hospital, 한의학 의원:traditional_clinic, 종합병원:general_ospital, 치과:dental_clinic other:공란,closed)
 
 
+employee1 – 고용한 총 직원의 수(2017)
+
+employee2 – 고용한 총 직원의 수(2016)
+
+
+ownerChange – 대표자의 변동 여부
+
+
 ### 재무제표
 
 
@@ -146,12 +154,6 @@ netAsset2 – 순자산총계
 surplus2 – 이익잉여금
 
 
-employee1 – 고용한 총 직원의 수(2017)
-
-employee2 – 고용한 총 직원의 수(2016)
-
-
-ownerChange – 대표자의 변동 여부
 
 
 
