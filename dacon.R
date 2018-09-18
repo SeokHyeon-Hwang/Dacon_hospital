@@ -1,0 +1,11 @@
+rm(list=ls())
+search()
+trdf<-read.csv('E:/Bigdata/dataset/dacon/train.csv')
+str(trdf)
+summary(trdf)
+table(trdf$instkind)
+em_ch<-(trdf$employee1-trdf$employee2)
+em_ch
+trdf[3,]
+head(trdf)
+trdf<-trdf
